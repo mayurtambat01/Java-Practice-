@@ -2,4 +2,4 @@
 
 This is my first Project 
 <br>
-Author - Mayur Tambat
+Author - Mayur Tambat (BE CSE)
