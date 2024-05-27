@@ -5,7 +5,7 @@ This is my first Project With the help of (JAVA,HTML,CSS) Languages.
 
 Author - Mayur Pradip Tambat 
 <br>
-(BE CSE)
+
 
 
 
