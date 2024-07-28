@@ -7,7 +7,7 @@ public class FindMinMaxinArray {
         long max = arr[0];
 
         for(long num : arr){
-            if(num < min){
+            if (num < min) {
                 min = num;
             }
             if (num > max) {

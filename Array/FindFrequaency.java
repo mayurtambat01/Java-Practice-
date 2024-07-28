@@ -16,12 +16,12 @@ package Array;
 public class FindFrequaency {
 
     public static int frequency(int arr[],int n,int X){
-        int count = 0;
-        for(int num : arr){
-            if(num==X){
-                count++;
-            }
+    int count = 0;
+    for(int num : arr){
+        if (num == X) {
+            count++;
         }
-        return count;
-    }    
+    }
+    return count;
+    }
 }
