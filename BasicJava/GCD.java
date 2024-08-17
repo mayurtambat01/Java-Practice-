@@ -1,7 +1,5 @@
 //Greatest Common Digit;
 
-package BasicJava;
-
 public class GCD {
 
     public static int gcd(int a,int b){

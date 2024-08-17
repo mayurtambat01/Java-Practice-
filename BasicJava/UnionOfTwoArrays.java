@@ -16,8 +16,6 @@ Explanation: 1, 2, 3, 4 and 5 are the elements which
 comes in the union setof both arrays. So count is 5.
 */
 
-package BasicJava;
-
 import java.util.HashSet;
 
 public class UnionOfTwoArrays {

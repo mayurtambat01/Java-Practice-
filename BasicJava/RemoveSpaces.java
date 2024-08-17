@@ -1,4 +1,3 @@
-package BasicJava;
 
 public class RemoveSpaces {
 

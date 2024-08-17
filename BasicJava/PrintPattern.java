@@ -6,7 +6,6 @@ Print Following Pattern.
 **** 
 
 */
-package BasicJava;
 
 public class PrintPattern {
     

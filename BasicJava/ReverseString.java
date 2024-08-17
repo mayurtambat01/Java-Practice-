@@ -8,8 +8,6 @@ s = Geeks
 Output: skeeG
 */
 
-package BasicJava;
-
 public class ReverseString {
 
     public static String reverse(String str){
